@@ -32,23 +32,7 @@ const videos =
   video13: video_13,
   video14: video_14,
   video15: video_15,
-  video16: video_16,
-  video17: video_1,
-  video18: video_16,
-  video19: video_15,
-  video20: video_14,
-  video21: video_13,
-  video22: video_12,
-  video23: video_11,
-  video24: video_10,
-  video25: video_9,
-  video26: video_8,
-  video27: video_7,
-  video28: video_6,
-  video29: video_5,
-  video30: video_4,
-  video31: video_3,
-  video32: video_2
+  video16: video_16
 }
 
 /*videos.video1
